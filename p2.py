@@ -4,3 +4,4 @@ st.title(":smile: Image Data Analysis :smiley:")
 st.divider()
 
 st.image('1.jpg')
+st.image('2.jpg')
